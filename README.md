@@ -7,7 +7,7 @@ This project's aim is to show my programming abilities by solving multiple chall
 This project begins thanks to this book by Mark Newmann. I'll be solving many of its challenges to show my abilities in different areas of Python programming and just because of mere selfinterest in the physics background.
 
 ## Other programms
-Not only I'll be solving Newman's book challenges but I'll also update some programms of my own or inspired by other books or topics treated in my university physics classes.
+Not only I'll be solving Newman's book challenges but I'll also update some programs of my own or inspired by other books or topics treated in my university physics classes.
 
 
 
